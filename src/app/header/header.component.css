@@ -1,0 +1,26 @@
+#right {
+  float: right;
+}
+
+#left{
+  float: left;
+}
+
+img {
+  position: relative;
+  left: 100px;
+  border-radius: 5px;
+  height: 100px;
+  width: 100px;
+
+}
+.ui {
+  background-color: #222831;
+}
+
+h4 {
+  color: #fbd46d;
+  font-family: "Times New Roman";
+  position: absolute;
+  top: 20px;
+}
