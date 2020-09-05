@@ -8,7 +8,7 @@
 
 img {
   position: relative;
-  left: 100px;
+  bottom: 37px;
   border-radius: 5px;
   height: 100px;
   width: 100px;
@@ -18,9 +18,7 @@ img {
   background-color: #394989;
 }
 
-h4 {
+p {
   color: #fbd46d;
   font-family: "Times New Roman";
-  position: absolute;
-  top: 20px;
 }
